@@ -1,4 +1,4 @@
-# Dipmala.dev Portfolio
+## My Portfolio website
 
 Premium responsive personal portfolio built with HTML, CSS and JavaScript.
 
